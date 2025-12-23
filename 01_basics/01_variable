@@ -1,0 +1,7 @@
+const accountID = 144553
+let accountEmail = "meet@gooogle.com"
+var accountPassqord = "12345"
+accountCity = "Ahmedabad"
+
+accountID = 2
+console.log(accountID);
