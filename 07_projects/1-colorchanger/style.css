@@ -1,5 +1,6 @@
 html {
   margin: 0;
+  display: inline-block;
 }
 
 span {
@@ -30,4 +31,17 @@ span {
 }
 #yellow {
   background: yellow;
+}
+#green {
+  background: green;
+}
+#pink {
+  background: pink;
+}
+#aqua {
+  background: aqua;
+}
+#black {
+  background: black;
+  border: solid white 2px;
 }
